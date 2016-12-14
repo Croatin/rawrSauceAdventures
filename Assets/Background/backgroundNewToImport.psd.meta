@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: daf3b2f951c22004c8a9d4985b2b2acf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: backgroundNewToImport
+    21300002: backgroundNewToImport_0
+    21300004: backgroundNewToImport_1
+    21300006: backgroundNewToImport_2
+    21300008: backgroundNewToImport_3
+    21300010: backgroundNewToImport_4
+    21300012: backgroundNewToImport_5
+    21300014: backgroundNewToImport_6
+    21300016: backgroundNewToImport_7
+    21300018: backgroundNewToImport_8
+    21300020: backgroundNewToImport_9
+    21300022: backgroundNewToImport_10
+    21300024: backgroundNewToImport_11
+    21300026: backgroundNewToImport_12
+    21300028: backgroundNewToImport_13
+    21300030: backgroundNewToImport_14
+    21300032: backgroundNewToImport_15
+    21300034: backgroundNewToImport_16
+    21300036: backgroundNewToImport_17
+    21300038: backgroundNewToImport_18
+    21300040: backgroundNewToImport_19
+    21300042: backgroundNewToImport_20
+    21300044: backgroundNewToImport_21
+    21300046: backgroundNewToImport_22
+    21300048: backgroundNewToImport_23
+    21300050: backgroundNewToImport_20
+    21300052: backgroundNewToImport_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: backgroundNewToImport_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1799
+        width: 801
+        height: 601
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_1
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2253
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_2
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2157
+        width: 144
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_3
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2216
+        width: 135
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2199
+        width: 131
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_5
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1999
+        width: 155
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_6
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2005
+        width: 252
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_7
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1754
+        width: 802
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_8
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1886
+        width: 264
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_9
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1754
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_10
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1761
+        width: 203
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326
+        width: 240
+        height: 431
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1674
+        width: 719
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1326
+        width: 93
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1326
+        width: 54
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1326
+        width: 264
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_16
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1339
+        width: 74
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 633
+        width: 184
+        height: 602
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 631
+        width: 249
+        height: 614
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_19
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1336
+        width: 114
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_20
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1340
+        width: 113
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_21
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1338
+        width: 119
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: backgroundNewToImport_22
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1355
+        width: 80
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

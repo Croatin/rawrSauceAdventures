@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: aaf9bf0d23083e64c83ef086c18094e2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: horsey
+    21300002: horsey_0
+    21300004: horsey_1
+    21300006: horsey_2
+    21300008: horsey_3
+    21300010: horsey_4
+    21300012: horsey_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: horsey_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2983
+        width: 512
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horsey_1
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3112
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horsey_2
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 3066
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horsey_3
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2860
+        width: 145
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horsey_4
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2783
+        width: 259
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horsey_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 2172
+        height: 2596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Descention soundBoard\Assets\Scripts\button1.cs">
+    <Files>
+      <File FileName="..\Descention soundBoard\Assets\Scripts\button1.cs" Line="33" Column="3" />
+      <File FileName="Assets\Scripts\forRawrSauce\pickUpPoop.cs" Line="34" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
